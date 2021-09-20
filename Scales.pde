@@ -48,7 +48,7 @@ void said(int x, int y) {
 }
 
 void saidtwo(int x, int y) {
-fill((int)(Math.random()*60)+235, (int)(Math.random()*30)+172, (int)(Math.random()*60)+183)
+fill((int)(Math.random()*60)+235, (int)(Math.random()*30)+172, (int)(Math.random()*60)+183);
  strokeWeight(2);
  stroke(135,206,250);
  int a = x +(int)(Math.random()*10);
